@@ -6,3 +6,8 @@ class Post(models.Model):
     image = models.URLField()
     description = models.TextField()
     user = models.ForeignKey(settings.AUTH_USER_MODEL,on_delete=models.CASCADE,related_name="post_user",)
+class PostMedia(models.Model):
+    'Generated Model'
+    post = models.ForeignKey("home.Post",on_delete=models.CASCADE,related_name="postmedia_post",)
+    image = models.URLField()
+    video = models.URLField()
