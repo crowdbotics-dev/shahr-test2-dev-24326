@@ -56,7 +56,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 
 This section will show any installed modules you add from the Storyboard Modules section.
 - [camera]()
-- [screen-activity-feed](screens/activity-feed)
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [screen-account-settings](screens/account-settings)
 - [screen-create-post](screens/create-post-2)

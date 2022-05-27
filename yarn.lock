@@ -1000,7 +1000,7 @@
   dependencies:
     react-native-app-intro-slider "^4.0.4"
 
-"@modules/splash@file:./modules/splash/":
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
@@ -1217,9 +1217,6 @@
     reselect "^4.1.5"
 
 "@screens/account-settings@file:./screens/account-settings":
-  version "1.0.0"
-
-"@screens/activity-feed@file:./screens/activity-feed":
   version "1.0.0"
 
 "@screens/create-post-2@file:./screens/create-post-2":
