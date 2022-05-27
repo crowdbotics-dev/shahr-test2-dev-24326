@@ -1214,10 +1214,10 @@
 "@screens/activity-feed@file:./screens/activity-feed":
   version "1.0.0"
 
-"@screens/activity-feed@file:./screens/activity-feed/":
+"@screens/create-post-2@file:./screens/create-post-2":
   version "1.0.0"
 
-"@screens/create-post-2@file:./screens/create-post-2":
+"@screens/post-listing@file:./screens/post-listing/":
   version "1.0.0"
 
 "@screens/support-send-feedback@file:./screens/support-send-feedback":

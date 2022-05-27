@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [screen-account-settings](screens/account-settings)
 - [screen-create-post](screens/create-post-2)
+- [screen-post-listing](screens/post-listing)
 
 # Getting started: Frontend
 

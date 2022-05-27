@@ -20,6 +20,7 @@
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/activity-feed": "file:./screens/activity-feed/",
     "@screens/create-post-2": "file:./screens/create-post-2/",
+    "@screens/post-listing": "file:./screens/post-listing/",
     "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
     "axios": "^0.21.1",
     "react": "17.0.1",
