@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [screen-activity-feed](screens/activity-feed)
 - [screen-support-send-feedback](screens/support-send-feedback)
+- [screen-account-settings](screens/account-settings)
 
 # Getting started: Frontend
 
